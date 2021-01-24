@@ -1,5 +1,3 @@
-### Contador de Palavras e Caracteres
-
 ![image](https://user-images.githubusercontent.com/41811634/105643571-642d4000-5e6f-11eb-9488-e7f688218e87.png)
 
 
