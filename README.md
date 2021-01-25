@@ -1,7 +1,4 @@
-![image](https://user-images.githubusercontent.com/41811634/105643571-642d4000-5e6f-11eb-9488-e7f688218e87.png)
+![image](https://user-images.githubusercontent.com/41811634/105718763-57a4f800-5f00-11eb-8352-fcb5f77c483a.png)
 
 
-
-Um simples contador de palavras e caracteres feito com Javascript e jQuery.
-
-[Clique aqui para utilizar](https://nadiaaoliverr.github.io/contador-de-palavras-e-caracteres/)!!!
+[Clique aqui para utilizar](https://nadiaaoliverr.github.io/contador-de-palavras-e-caracteres/) 😉
